@@ -2,12 +2,15 @@
 
 Hi, 
 I’m Justin Cromer AKA @avg-cs-student. My interests include:
-- full-stack web development 
 - embedded systems
 - operating systems
+- full-stack web development 
+
+The majority of my work lives in private repositories, but I'm making an effort to build some things
+for fun and host them here.
 
 I’m currently studying computer science at Clemson University. My work experience includes:
-- Undergraduate Research for the PERSIST Lab @Clemson (Current)
-- 2 Internships @BMW Manufacturing Co., LLC
+- Undergraduate Research in batteryless embedded systems for the PERSIST Lab @Clemson (Current)
+- 2 Electrical Validation and Integration Internships @BMW Manufacturing Co., LLC
 
 __Contact Me__: justincromer@protonmail.com
