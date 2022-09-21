@@ -2,6 +2,7 @@
 
 Hi, 
 I’m Justin Cromer AKA @avg-cs-student. My interests include:
+- software design patterns (especially functional)
 - embedded systems
 - operating systems
 - full-stack web development 
