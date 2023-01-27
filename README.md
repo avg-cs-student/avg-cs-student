@@ -6,7 +6,7 @@ I’m Justin Cromer AKA @avg-cs-student. My interests include:
 - embedded systems
 - operating systems
 - full-stack web development 
-- Long time VIM enthusiast, would-be Emacs user, but VSCode saves more time currently
+- Long time VIM enthusiast
 
 I’m currently studying computer science at Clemson University. My work experience includes:
 - Undergraduate Research in batteryless embedded systems for the PERSIST Lab @Clemson (Current)
