@@ -2,11 +2,10 @@
 
 Hi, 
 I’m Justin Cromer AKA @avg-cs-student. My interests include:
-- software design patterns (especially functional)
-- embedded systems
+- software design patterns
+- embedded systems/IoT
 - operating systems
-- full-stack web development 
-- Long time VIM enthusiast
+- Long time VIM enthusiast, the shell is my IDE
 
 I’m currently studying computer science at Clemson University. My work experience includes:
 - Undergraduate Research in batteryless embedded systems for the PERSIST Lab @Clemson (Current)
