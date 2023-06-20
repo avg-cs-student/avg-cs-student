@@ -7,7 +7,9 @@ I’m Justin Cromer AKA @avg-cs-student. My interests include:
 - operating systems
 - Long time VIM enthusiast, the shell is my IDE
 
-I’m currently studying computer science at Clemson University. My software experience includes:
+Embedded software @SpaceX as of Aug, 2023. 
+
+My software experience includes:
 - Undergraduate Research in batteryless embedded systems for the PERSIST Lab @ClemsonUniversity
 - 2 Electrical Validation and Integration Internships @BMW Manufacturing Co., LLC
 - Microsoft Student Learn Ambassador
